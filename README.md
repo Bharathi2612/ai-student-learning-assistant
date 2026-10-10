@@ -1,5 +1,4 @@
-# AI Student Learning Assistant 
-AI Student Learning Assistant
+# AI Student Learning Assistant
 Building AI course project
 Summary
 AI Student Learning Assistant is an AI-based project designed to help students understand difficult subjects, practice questions, and improve their study habits through personalized learning recommendations.
